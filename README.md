@@ -1,4 +1,4 @@
-Oasis Infobyte Summer Internship Projects
+## Oasis Infobyte Summer Internship Projects
 
 
 ## About the Internship
