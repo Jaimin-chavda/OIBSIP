@@ -1,12 +1,11 @@
-﻿# OIBSIP — Oasis Infobyte Summer Internship Projects
+Oasis Infobyte Summer Internship Projects
 
----
 
 ## About the Internship
 
 This repository contains all projects built during my **Web Development Internship** at **Oasis Infobyte** under the **AICTE Internship Program**.
 
-The internship is a structured, self-paced program focused on building practical web development skills through progressively complex real-world tasks — from static HTML/CSS pages to full-stack applications.
+The internship is a structured, self-paced program focused on building practical web development skills through progressively complex real-world tasks from static HTML/CSS pages to full-stack applications.
 
 - **Organization:** Oasis Infobyte
 - **Program:** AICTE Oasis Infobyte Internship Program
